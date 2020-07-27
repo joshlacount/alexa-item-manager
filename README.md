@@ -1,0 +1,3 @@
+# Alexa Item Manager
+
+AIM is a small experiment with Amazon's Alexa to allow me to transfer items between my vault and characters in the game Destiny 2 using an Echo Dot.  The AWS Lambda function sends the item name, source, and destination over TCP to a separate program which handles the actual moving of the item using Bungie's API.  This project is very much overcomplicated since I wanted to automate the OAuth part of the API authentication, and I was inexperienced with APIs and OAuth in general when I wrote this.

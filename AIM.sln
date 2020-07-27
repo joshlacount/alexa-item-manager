@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIM", "AIM\AIM.csproj", "{E63599A3-0659-46D1-A2FA-69902753B5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item Export", "Item Export\Item Export.csproj", "{AD1664F0-645F-43FE-87EE-FBD3752741E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Item Manager", "Item Manager\Item Manager.csproj", "{3996821C-99F3-427A-B3F8-67479F9F040E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E63599A3-0659-46D1-A2FA-69902753B5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E63599A3-0659-46D1-A2FA-69902753B5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E63599A3-0659-46D1-A2FA-69902753B5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1664F0-645F-43FE-87EE-FBD3752741E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1664F0-645F-43FE-87EE-FBD3752741E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1664F0-645F-43FE-87EE-FBD3752741E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1664F0-645F-43FE-87EE-FBD3752741E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3996821C-99F3-427A-B3F8-67479F9F040E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3996821C-99F3-427A-B3F8-67479F9F040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3996821C-99F3-427A-B3F8-67479F9F040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3996821C-99F3-427A-B3F8-67479F9F040E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
